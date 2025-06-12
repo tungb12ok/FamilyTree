@@ -1,0 +1,264 @@
+{
+  "familyName": "TRẦN VĂN",
+  "rootGeneration": 1,
+  "tree": {
+    "memberID": 1,
+    "fullName": "Nguyễn Văn Tổ",
+    "gender": true,
+    "generation": 1,
+    "roleFamily": "Tổ phụ",
+    "birthDate": "1920-01-01",
+    "deathDate": null,
+    "address": "Nam Định",
+    "spouse": {
+      "memberID": 2,
+      "fullName": "Phạm Thị Tổ",
+      "gender": false,
+      "generation": 1,
+      "roleFamily": "Tổ mẫu",
+      "birthDate": "1922-06-10",
+      "deathDate": null,
+      "address": "Nam Định"
+    },
+    "children": [
+      {
+        "memberID": 3,
+        "fullName": "Nguyễn Văn Lớn",
+        "gender": true,
+        "generation": 2,
+        "roleFamily": "Con cả",
+        "birthDate": "1943-05-12",
+        "deathDate": null,
+        "address": "Nam Định",
+        "spouse": {
+          "memberID": 4,
+          "fullName": "Trần Thị Nhẫn",
+          "gender": false,
+          "generation": 2,
+          "roleFamily": "Con dâu",
+          "birthDate": "1945-11-25",
+          "deathDate": null,
+          "address": "Hải Dương"
+        },
+        "children": [
+          {
+            "memberID": 9,
+            "fullName": "Nguyễn Văn Bốn",
+            "gender": true,
+            "generation": 3,
+            "roleFamily": "Cháu đích tôn",
+            "birthDate": "1970-02-15",
+            "deathDate": null,
+            "address": "Hà Nội",
+            "spouse": {
+              "memberID": 10,
+              "fullName": "Lê Thị Hoa",
+              "gender": false,
+              "generation": 3,
+              "roleFamily": "Cháu dâu",
+              "birthDate": "1972-09-09",
+              "deathDate": null,
+              "address": "Hà Nội"
+            },
+            "children": [
+              {
+                "memberID": 17,
+                "fullName": "Nguyễn Văn Bảy",
+                "gender": true,
+                "generation": 4,
+                "roleFamily": "Chắt trai",
+                "birthDate": "1996-12-20",
+                "deathDate": null,
+                "address": "Hà Nội",
+                "spouse": null,
+                "children": [
+                  {
+                    "memberID": 23,
+                    "fullName": "Nguyễn Văn Mười Ba",
+                    "gender": true,
+                    "generation": 5,
+                    "roleFamily": "Chít trai",
+                    "birthDate": "2024-07-15",
+                    "deathDate": null,
+                    "address": "Hà Nội",
+                    "spouse": null,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "memberID": 18,
+                "fullName": "Nguyễn Thị Tám",
+                "gender": false,
+                "generation": 4,
+                "roleFamily": "Chắt gái",
+                "birthDate": "1998-07-13",
+                "deathDate": null,
+                "address": "Hà Nội",
+                "spouse": null,
+                "children": []
+              }
+            ]
+          },
+          {
+            "memberID": 11,
+            "fullName": "Nguyễn Văn Năm",
+            "gender": true,
+            "generation": 3,
+            "roleFamily": "Cháu trai",
+            "birthDate": "1973-07-07",
+            "deathDate": null,
+            "address": "Hải Phòng",
+            "spouse": {
+              "memberID": 12,
+              "fullName": "Trần Thị Nga",
+              "gender": false,
+              "generation": 3,
+              "roleFamily": "Cháu dâu",
+              "birthDate": "1974-01-22",
+              "deathDate": null,
+              "address": "Hải Phòng"
+            },
+            "children": [
+              {
+                "memberID": 19,
+                "fullName": "Nguyễn Văn Chín",
+                "gender": true,
+                "generation": 4,
+                "roleFamily": "Chắt trai",
+                "birthDate": "1999-02-02",
+                "deathDate": null,
+                "address": "Hải Phòng",
+                "spouse": null,
+                "children": []
+              },
+              {
+                "memberID": 20,
+                "fullName": "Nguyễn Thị Mười",
+                "gender": false,
+                "generation": 4,
+                "roleFamily": "Chắt gái",
+                "birthDate": "2001-04-15",
+                "deathDate": null,
+                "address": "Hải Phòng",
+                "spouse": null,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "memberID": 5,
+        "fullName": "Nguyễn Văn Hai",
+        "gender": true,
+        "generation": 2,
+        "roleFamily": "Con trai",
+        "birthDate": "1946-03-07",
+        "deathDate": null,
+        "address": "Nam Định",
+        "spouse": {
+          "memberID": 6,
+          "fullName": "Vũ Thị Thảo",
+          "gender": false,
+          "generation": 2,
+          "roleFamily": "Con dâu",
+          "birthDate": "1948-08-21",
+          "deathDate": null,
+          "address": "Hà Nam"
+        },
+        "children": [
+          {
+            "memberID": 13,
+            "fullName": "Nguyễn Thị Sáu",
+            "gender": false,
+            "generation": 3,
+            "roleFamily": "Cháu gái",
+            "birthDate": "1975-10-30",
+            "deathDate": null,
+            "address": "Hà Nam",
+            "spouse": {
+              "memberID": 14,
+              "fullName": "Đinh Văn Tâm",
+              "gender": true,
+              "generation": 3,
+              "roleFamily": "Cháu rể",
+              "birthDate": "1973-03-03",
+              "deathDate": null,
+              "address": "Hà Nam"
+            },
+            "children": [
+              {
+                "memberID": 21,
+                "fullName": "Nguyễn Văn Mười Một",
+                "gender": true,
+                "generation": 4,
+                "roleFamily": "Chắt trai",
+                "birthDate": "2002-10-30",
+                "deathDate": null,
+                "address": "Nam Định",
+                "spouse": null,
+                "children": [
+                  {
+                    "memberID": 22,
+                    "fullName": "Nguyễn Thị Mười Hai",
+                    "gender": false,
+                    "generation": 5,
+                    "roleFamily": "Chít gái",
+                    "birthDate": "2022-03-22",
+                    "deathDate": null,
+                    "address": "Nam Định",
+                    "spouse": null,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "memberID": 15,
+            "fullName": "Phạm Thị Mười",
+            "gender": false,
+            "generation": 3,
+            "roleFamily": "Cháu gái",
+            "birthDate": "1977-11-11",
+            "deathDate": null,
+            "address": "Nam Định",
+            "spouse": {
+              "memberID": 16,
+              "fullName": "Lý Văn Lợi",
+              "gender": true,
+              "generation": 3,
+              "roleFamily": "Cháu rể",
+              "birthDate": "1976-08-25",
+              "deathDate": null,
+              "address": "Nam Định"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "memberID": 7,
+        "fullName": "Nguyễn Thị Ba",
+        "gender": false,
+        "generation": 2,
+        "roleFamily": "Con gái",
+        "birthDate": "1950-12-10",
+        "deathDate": null,
+        "address": "Nam Định",
+        "spouse": {
+          "memberID": 8,
+          "fullName": "Phạm Văn Thắng",
+          "gender": true,
+          "generation": 2,
+          "roleFamily": "Con rể",
+          "birthDate": "1944-04-18",
+          "deathDate": null,
+          "address": "Hà Nam"
+        },
+        "children": [] 
+      }
+    ]
+  }
+}

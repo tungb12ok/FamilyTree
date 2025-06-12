@@ -1,0 +1,17 @@
+[
+  {
+    "marriageID": 1,
+    "husband": 3,
+    "wife": 4
+  },
+  {
+    "marriageID": 2,
+    "husband": 7,
+    "wife": 8
+  },
+  {
+    "marriageID": 3,
+    "husband": 11,
+    "wife": 10
+  }
+]
